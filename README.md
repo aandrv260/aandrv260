@@ -9,7 +9,7 @@ I take ownership of problems end to end and collaborate with product, design, an
 
 ## Personal Projects
 
-A few personal projects where I explore frontend architecture, reusable infrastructure, and approaches to solving complex engineering problems.
+Outside of my professional product work, I enjoy exploring frontend architecture, developer tooling, and reusable infrastructure. Here are a few projects I've built along the way.
 
 - **[Block Editor](https://github.com/aandrv260/block-editor)**: A block editor engine with a lightweight React adapter. Built with a strong focus on extensibility and testing. **Work in progress.**
 - **[Hotkey Registry](https://github.com/aandrv260/hotkey-registry)**: A reusable keyboard shortcut system with priority-based resolution, configurable behavior, and a lightweight React integration.
